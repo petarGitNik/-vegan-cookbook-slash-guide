@@ -2,9 +2,9 @@
 
 ## 1.1 What is This?
 
-This is the collection of recipes that I use on a day-to-day basis. This short guide serves as a **recommendation** for a painless translation from standard omnivorous diet to a plant based one. Recommendation as in: _here is a meal plan which you can start using right away_.
+This is the collection of recipes that I use on a day-to-day basis. This short guide serves as a **recommendation** for a painless transition from standard omnivorous diet to a plant based one. Recommendation as in: _here is a meal plan which you can start using right away_.
 
-Please fork this repo if you find any mistakes, or submit an issue (you have to have a github account for that). If you find any issues in my claims please provide adequate evidence. At this stage, this guide (or rather part of it) was created in a hurry in one evening, so I will try to add references when I have time. I am no expert so expect mistakes, and take **every** statement with a grin of salt. Or few grains of salt. Or several kilograms of salt. Also, if you don't want to make an account to submit an issue, you can contact me using email. My email can be found at the footer of my [blog](https://petargitnik.github.io/).
+Please fork this repo if you find any mistakes, or submit an issue (you have to have a github account for that). If you find any issues in my claims please provide adequate evidence. At this stage, this guide (or rather part of it) was created in a hurry in one evening, so I will try to add references when I have time. I am no expert so expect mistakes, and take **every** statement with a grain of salt. Or few grains of salt. Or several kilograms of salt. Also, if you don't want to make an account to submit an issue, you can contact me using email. My email can be found at the footer of my [blog](https://petargitnik.github.io/).
 
 **Keep in mind:** I am not a health expert. So consult with your dietician and/or your doctor. Any advice you use from this guide you are using **at your own** risk.
 
@@ -52,11 +52,11 @@ It is very cheap, but tastes like crap on its own. You have to spice it up, lite
 
 ### But wait! Soy will give me moobs and cancer!
 
-No. It wont. There are no conclusive evidence for either of those claims. Soy is generally very healthy and a good source of proteins. Read the whole [wikipedia](https://en.wikipedia.org/wiki/Soybean) article on soybeans.
+No. It won't. There are no conclusive evidence for either of those claims. Soy is generally very healthy and a good source of proteins. Read the whole [wikipedia](https://en.wikipedia.org/wiki/Soybean) article on soybeans.
 
-### Whait a minute, bread? White bread? Why should I eat that garbage?
+### Wait a minute, bread? White bread? Why should I eat that garbage?
 
-No. It's not garbage. Proteins from white bread are better absorbed than, for example, proteins from whole wheat bread. Admittedly it has lower micronutrient content, but the whole what bread (and similar bread of the whole cereal variety) comes with their own baggage. Namely, antinutrients that reduce absorption of micronutrients.
+No. It's not garbage. Proteins from white bread are better absorbed than, for example, proteins from whole wheat bread. Admittedly it has lower micronutrient content, but the whole wheat bread (and similar breads of the whole cereal variety) comes with its own baggage. Namely, antinutrients that reduce absorption of micronutrients.
 
 ### What bread should I eat then?
 
@@ -72,7 +72,7 @@ I drink water, teas, and coffee. Also, soy coffee made from [kinako](https://en.
 
 ### OK, OK, I know this guide is not about loosing weight. But what if I want to do that?
 
-If you have normal ranging BMI, I would not recommend diet. But if you're overweight or obese, keep track of your caloric intake by measuring everything you eat and keeping a foot diary. Use application such as [cron-o-meter](https://cronometer.com/#diary) for that. It's pretty neat and free too! Also, I'm not a dietician, as I have made a disclaimer already, but lose moderate amount of calories per day. Don't go too hard. Do yourself a favor and read [Nutrition: A Very Short Introduction](https://www.oupjapan.co.jp/en/products/detail/8984). In there, the author explained the limit to how much you can lose weight per week. It's about 2.5kg/week. Consult your dietician and/or your doctor concerning the diet. But generally, don't eat less calories than your [RMR](https://en.wikipedia.org/wiki/Resting_metabolic_rate) i.e. [BMR](https://en.wikipedia.org/wiki/Basal_metabolic_rate).
+If you have normal ranging BMI, I would not recommend diet. But if you're overweight or obese, keep track of your caloric intake by measuring everything you eat and keeping a food diary. Use application such as [cron-o-meter](https://cronometer.com/#diary) for that. It's pretty neat and free too! Also, I'm not a dietician, as I have made a disclaimer already, but lose moderate amount of calories per day. Don't go too hard. Do yourself a favor and read [Nutrition: A Very Short Introduction](https://www.oupjapan.co.jp/en/products/detail/8984). In there, the author explained the limit to how much you can lose weight per week. It's about 2.5kg/week. Consult your dietician and/or your doctor concerning the diet. But generally, don't eat less calories than your [RMR](https://en.wikipedia.org/wiki/Resting_metabolic_rate) i.e. [BMR](https://en.wikipedia.org/wiki/Basal_metabolic_rate).
 
 ### What about PROTEIN??? Vegans don't get enough protein, I've heard that in my gym...
 
@@ -156,4 +156,4 @@ Ingredients:
 
 Instructions:
 
-Put peanuts in a food processor, and let the food processer grind them into a fine paste. If the food processer is not powerful enough, add oil. You can use and vegetable oil. Refined or virgin, it's all ok. Keep in mind that refined oils don't have any particular taste. But virgin oils do, so they can add to taste. Whether you like that addition or not, it's up to you.
+Put peanuts in a food processor, and let the food processer grind them into a fine paste. If the food processer is not powerful enough, add oil. You can use any vegetable oil. Refined or virgin, it's all ok. Keep in mind that refined oils don't have any particular taste. But virgin oils do, so they can add to taste. Whether you like that addition or not, it's up to you.
